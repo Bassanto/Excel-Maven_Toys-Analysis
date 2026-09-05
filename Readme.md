@@ -1,4 +1,8 @@
 # Maven Sales Analysis
+
+<img width="1322" height="609" alt="Mavin_dashboard_01" src="https://github.com/user-attachments/assets/3cffbc00-1c9c-4110-ace8-e9cf6e9d3fd6" />
+
+
 ## Introduction
 
 This project analyzes sales performance for Maven Toys, a toy and 
@@ -45,6 +49,10 @@ My backbone for data cleaning . using Trim to clean columns and
 converting each column to its necessary format.
 
 - **Data Modeling**:
+
+<img width="1364" height="718" alt="Screenshot 2026-09-05 153144" src="https://github.com/user-attachments/assets/c8f7d194-5482-441c-95dc-cdabdae5fbb4" />
+
+  
 With data modeling in Excel, I was able to create relationships among 
 the tables for seamless analysis across them. I also created a proper 
 date table for accurate time intelligence analysis.
